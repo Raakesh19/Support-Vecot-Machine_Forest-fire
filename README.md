@@ -1,4 +1,4 @@
-# Support-Vecot-Machine_Forest-fire
+# Support-Vector-Machine_Forest-fire
 classify the Size_Categorie using SVM
 
 month	month of the year: 'jan' to 'dec'
